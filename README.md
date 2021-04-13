@@ -19,5 +19,4 @@ A catalogue of cross-modal hashing papers
   * **PR 2020**: *Supervised discrete cross-modal hashing based on kernel discriminant analysis*.<br>Yixian Fang; Yuwei Ren.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303644)
   * **PR 2020**: *A novel strategy to balance the results of cross-modal hashing*.<br>Fangming Zhong; Zhikui Chen; Geyong Min; Feng Xia.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303265)
   * **IPM 2020**: *Label consistent locally linear embedding based cross-modal hashing*.<br>Hui Zeng; Huaxiang Zhang; Lei Zhu.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457319305357)
-  * **TCyb 2020**(p1-14): *Fast Cross-Modal Hashing With Global and Local Similarity Embedding*.<br>Yongxin Wang; Zhen-Duo Chen; Xin Luo; Rui Li; Xin-Shun Xu.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9382960)
   * **TNNLS 2020**(p1-11): *Flexible Cross-Modal Hashing*.<br>Guoxian Yu; Xuanwu Liu; Jun Wang; Carlotta Domeniconi; Xiangliang Zhang.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9223723)
